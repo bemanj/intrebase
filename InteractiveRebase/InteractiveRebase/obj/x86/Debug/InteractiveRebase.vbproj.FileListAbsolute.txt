@@ -10,7 +10,6 @@ C:\Users\rm004134263\AppData\Local\Temporary Projects\InteractiveRebase\obj\x86\
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.exe
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.xml
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.pdb
-C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.xml
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.exe
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.pdb
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.xml
