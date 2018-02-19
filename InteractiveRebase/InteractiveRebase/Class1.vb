@@ -19,6 +19,7 @@
         End Set
     End Property
 
+    ' Change something
     Function DisplayName() As String
         Dim prefix As String
         prefix = "Name: "
