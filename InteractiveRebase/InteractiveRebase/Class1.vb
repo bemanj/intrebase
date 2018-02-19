@@ -22,7 +22,7 @@
     Function DisplayName() As String
         Dim prefix As String
         prefix = "Name: "
-        Return prefix & _firstName
+        Return prefix & _firstName & " " & _lastname
     End Function
 
 End Class
