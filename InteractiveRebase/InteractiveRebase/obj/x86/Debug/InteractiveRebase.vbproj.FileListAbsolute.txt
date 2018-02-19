@@ -17,3 +17,11 @@ C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\Interactiv
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.Form1.resources
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.Resources.resources
 C:\Users\rm004134263\source\repo2\InteractiveRebase\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.exe
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.pdb
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\bin\Debug\InteractiveRebase.xml
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.Form1.resources
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.Resources.resources
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.vbproj.GenerateResource.Cache
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.exe
+C:\Users\RB004259604\Desktop\projects\rebase-test\InteractiveRebase\InteractiveRebase\obj\x86\Debug\InteractiveRebase.pdb
