@@ -25,4 +25,10 @@
         Return prefix & _firstName & " " & _lastname
     End Function
 
+    Function DisplayAge() As Integer
+
+        Return 20
+    End Function
+
+
 End Class
